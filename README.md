@@ -42,7 +42,7 @@ THEN I find a concise, descriptive title
 
 ## Application Screenshot Preview
 
-![Module_1](./images/01-html-css-git-homework-demo.png)
+
 
 ## Resources/Credit
 None
