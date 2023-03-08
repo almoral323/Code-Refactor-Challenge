@@ -42,6 +42,7 @@ THEN I find a concise, descriptive title
 
 ## Application Screenshot Preview
 
+![module1challengepic](https://user-images.githubusercontent.com/113931387/223633777-588af010-b5dd-428f-bc04-988874c5fe33.png)
 
 
 ## Resources/Credit
